@@ -1,0 +1,2 @@
+PyOpenGl
+PyQt5

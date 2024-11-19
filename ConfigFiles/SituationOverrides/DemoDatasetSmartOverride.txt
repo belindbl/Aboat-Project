@@ -1,0 +1,2 @@
+scenario_dynamic_name
+Weather/NoonClear.Weather.ini;TimeOfDaySettings.Hours value 6;8;10;17

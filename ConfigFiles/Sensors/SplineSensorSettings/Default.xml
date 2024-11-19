@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_SamplesPerSecond>30.0</_SamplesPerSecond>
+	<_LookAheadDistance>400.0</_LookAheadDistance>
+	<_LookAheadSolverIterations>2</_LookAheadSolverIterations>
+</root>

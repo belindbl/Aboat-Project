@@ -1,0 +1,11 @@
+Download data.zip and unzip it here.
+You should now have the Python/data folder, which allows the usage of yolo detection algorithm,
+required by LiveDetectionComparison & LiveSocketCamera
+
+Usage of data/yolo.py :
+the weight are loaded once you call one detection function
+to perform detection you want to import performDetect as it follows :
+from data/yolo.py import performDetect
+it can take many arguments, the most important being a numpy array of the image to analyze
+the performDetect function returns an array of detections
+/!\ it will display the image with bounding boxes if you don't pass |showImage = False| by argument to the function

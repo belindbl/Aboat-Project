@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <_SamplesPerSecond>1.0</_SamplesPerSecond>
+    <MinMMSI>100000000</MinMMSI>
+    <MaxMMSI>999999999</MaxMMSI>
+    <MinUpdateFreq>2</MinUpdateFreq>
+    <MaxUpdateFreq>4</MaxUpdateFreq>
+    <MaxConsistentPositionError>0.0</MaxConsistentPositionError>
+    <MaxConsistentOrientationError>0.0</MaxConsistentOrientationError>
+    <MaxConsistentCourseError>0.0</MaxConsistentCourseError>
+</root>

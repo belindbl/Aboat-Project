@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_SweepShape>spirograph</_SweepShape>
+	<_OuterRadius>9.0</_OuterRadius>
+	<_InnerRadius>6.0</_InnerRadius>
+	<_GrapherOffset>0.5</_GrapherOffset>
+	<_SpirographBeamAmount>1000</_SpirographBeamAmount>
+	<_SpanWidthDegree>90.0</_SpanWidthDegree>
+	<_SpanHeightDegree>90.0</_SpanHeightDegree>
+	<_SamplesPerSecond>30.0</_SamplesPerSecond>
+	<_LazerRange>2000.0</_LazerRange>
+	<_StreamTransformNotQuat>0</_StreamTransformNotQuat>
+	<_HitsInWorldOrLocalCoordinates>Local</_HitsInWorldOrLocalCoordinates>
+	<_CurrentNoiseType>Simple</_CurrentNoiseType>
+	<_NoiseIntensity>10.0</_NoiseIntensity>
+	<_ReflectivityNoiseIntensity>0.0</_ReflectivityNoiseIntensity>
+	<_IncludeZeroValues>false</_IncludeZeroValues>
+	<_FogNoOutputProbability>0.1</_FogNoOutputProbability>
+	<_FogRandomDistanceProbability>0.001</_FogRandomDistanceProbability>
+	<_RainRandomDistanceProbability>0.001</_RainRandomDistanceProbability>
+	<_WakeCollisionProbability> 0.04</_WakeCollisionProbability>
+	<_OceanCollisionProbability> 0.01</_OceanCollisionProbability>
+	<_WaveLength>0.0000550</_WaveLength>
+	<_SpirographRepeatAmount>3</_SpirographRepeatAmount>
+	<_SpirographRepeatOffset>2</_SpirographRepeatOffset>
+</root>

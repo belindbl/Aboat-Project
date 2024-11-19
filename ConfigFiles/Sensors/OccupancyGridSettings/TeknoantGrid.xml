@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_SamplesPerSecond>1.0</_SamplesPerSecond>
+	<_NumCellsX>10</_NumCellsX>
+	<_NumCellsY>7</_NumCellsY>
+	<_CellSize>200.0</_CellSize>
+	<_Stabilize>false</_Stabilize>
+	<_CellThickness>20</_CellThickness>
+</root>

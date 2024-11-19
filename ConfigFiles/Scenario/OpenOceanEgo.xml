@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenario>
+	<Level>OpenOcean</Level>
+	<Scenes />
+	<Situation>
+		<Layer>OpenOceanSmallMotorBoat</Layer>
+	</Situation>
+	<Weather>AfternoonClear</Weather>
+	<SeaState>DefaultBlueSea</SeaState>
+</Scenario>

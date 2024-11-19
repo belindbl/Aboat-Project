@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_SamplesPerSecond>0.0</_SamplesPerSecond>
+	<_LightIntensity>15000.0</_LightIntensity>
+	<_LightRange>15000.0</_LightRange>
+	<_LightColor>(R=200,G=200,B=255,A=255)</_LightColor>
+	<_LightType>SpotLight</_LightType>
+</root>

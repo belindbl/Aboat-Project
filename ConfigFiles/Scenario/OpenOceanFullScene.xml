@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenario>
+	<Level>OpenOcean</Level>
+	<Scenes>
+		<SubScene>Landscape</SubScene>
+		<SubScene>Containers</SubScene>
+		<SubScene>Coast_Skyscrapers</SubScene>
+		<SubScene>Harbour</SubScene>
+	</Scenes>
+	<Situation>
+		<Layer>OpenOceanRandomBoatsAtHarbour</Layer>
+	</Situation>
+</Scenario>

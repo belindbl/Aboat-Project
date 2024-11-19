@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CameraSettings>
+
+    <DepthOfFieldFocalDistance>60.0</DepthOfFieldFocalDistance>
+    <VignetteIntensity>0.4</VignetteIntensity>
+    <!-- <DepthOfFieldNearTransitionRegion>6299.9995117</DepthOfFieldNearTransitionRegion>
+    <DepthOfFieldFarTransitionRegion>1600.0</DepthOfFieldFarTransitionRegion>
+    <DepthOfFieldScale>0.26</DepthOfFieldScale>
+    <DepthOfFieldFocalRegion>3400.0007324</DepthOfFieldFocalRegion>
+        <DepthOfFieldScale>0.0</DepthOfFieldScale>
+    <DepthOfFieldNearBlurSize>0.0</DepthOfFieldNearBlurSize>
+    <DepthOfFieldFarBlurSize>0.25</DepthOfFieldFarBlurSize>
+     -->
+    <DepthOfFieldNearBlurSize>2.0</DepthOfFieldNearBlurSize>
+    <DepthOfFieldFarBlurSize>4.0</DepthOfFieldFarBlurSize>
+
+</CameraSettings>

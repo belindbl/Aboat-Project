@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_HorizontalFOV>90.0</_HorizontalFOV>
+	<_VerticalFOV>45.0</_VerticalFOV>
+	<_SampleFrequency>2</_SampleFrequency>
+	<_Range>6000.0</_Range>
+	<_MaxNumBounces>0</_MaxNumBounces>
+	<_AzimuthBuckets>20</_AzimuthBuckets>
+	<_DepthBuckets>40</_DepthBuckets>
+	<_ElevationBuckets>1</_ElevationBuckets>
+	<_Wavelength>1000.0</_Wavelength>
+	<_DataAsJSON>True</_DataAsJSON>
+	<_BucketData>False</_BucketData>
+	<_VerticalRaysNum>100</_VerticalRaysNum>
+	<_HorizontalRaysNum>200</_HorizontalRaysNum>
+	<_GainDBi>60.0</_GainDBi>
+	<_TransmitterPowerDBm>10.0</_TransmitterPowerDBm>
+	<_FrequencyGHz>3</_FrequencyGHz>
+	<_VelocityNoise>0.1</_VelocityNoise>
+	<_PowerNoise>0.1</_PowerNoise>
+	<_ReceiverRadius>10</_ReceiverRadius>
+</root> 

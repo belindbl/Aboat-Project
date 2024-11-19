@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenario>
+    <Level>Turku</Level>
+    <Scenes>
+        <SubScene>Island_1</SubScene>
+        <SubScene>Island_2</SubScene>
+        <SubScene>Island_3</SubScene>
+        <SubScene>Island_4</SubScene>
+        <SubScene>City_v2</SubScene>
+        <SubScene>RiverBanksDetails</SubScene>
+    </Scenes>
+</Scenario>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RuleSet name="Default">
+
+	<Rule category="ship" type="ObjectName" filter="*Ship*" ColorID="27"/>
+	<Rule category="ship" type="ObjectName" filter="*Ferry*" colorID="27"/>
+	<Rule category="ship" type="ObjectName" filter="*tanker*" colorID="27"/>
+	<Rule category="ship" type="ObjectName" filter="*Tanker*" colorID="27"/>
+	<Rule category="ship" type="ObjectName" filter="*Cargo*" colorID="27"/>
+	<!-- <Rule category="ship" type="FirstMaterial" filter="*Tanker*" colorID="206"/> -->
+
+	<Rule category="boats" type="ObjectAlias" filter="*SmallBoat*" ColorID="87"/>
+
+	<Rule category="boats" type="ObjectName" filter="*Boat*" ColorID="68"/>
+	<Rule category="boats" type="ObjectName" filter="*Yacht*" colorID="68"/>
+	<!-- <Rule category="boat" type="ObjectName" filter="*Boat*" colorRange="60:70"/> -->
+	
+	<Rule category="land" type="ObjectName" filter="*Land*" ColorID="43"/>
+	<Rule category="land" type="ObjectName" filter="*mountain*" ColorID="43"/>
+	<Rule category="land" type="ObjectName" filter="*Mountain*" ColorID="43"/>
+	<Rule category="land" type="ObjectName" filter="*tree*" colorID="43"/>
+	<Rule category="land" type="ObjectName" filter="*Tree*" colorID="43"/>
+
+	<Rule category="buoy" type="ObjectName" filter="*buoy*" ColorID="143"/>
+	<Rule category="buoy" type="ObjectName" filter="*Buoy*" ColorID="143"/>
+
+	<Rule category="wake" type="ObjectName" filter="*wake*" ColorID="32"/>
+	<Rule category="wake" type="ObjectName" filter="*Wake*" colorID="32"/>
+
+	<Rule category="sea" type="ObjectName" filter="*ocean*" ColorID="124"/>
+	<Rule category="sea" type="ObjectName" filter="*Ocean*" colorID="124"/>
+
+	<Rule category="sky" type="ObjectName" filter="*sky*" ColorID="0"/>
+	<Rule category="sky" type="ObjectName" filter="*ALS_Sky_*" ColorID="0"/>
+	
+	<Rule category="leisure" type="ObjectName" filter="*Leisure*" ColorID="138"/>
+
+
+	<Rule category="person" type="ObjectName" filter="*Human*" ColorID="46"/>
+	<Rule category="person" type="ObjectName" filter="*Pedestrian*" ColorID="46"/>
+
+
+	<Rule category="default" type="ObjectName" filter="*" colorID="43"/>
+</RuleSet>

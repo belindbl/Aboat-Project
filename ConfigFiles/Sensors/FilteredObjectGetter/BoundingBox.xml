@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_CollectionRadius>12000</_CollectionRadius>
+	<_SamplesPerSecond>10</_SamplesPerSecond>
+	<RuleSet>
+		<Rule filter="*Boat*" RuleType="ObjectName" InfoWantedMask="BoundingBox"/>
+	</RuleSet>
+</root>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_spanWidthDegree>30.0</_spanWidthDegree>
+	<_spanWidthStep>30.0</_spanWidthStep>
+	<_spanHeightDegree>10.0</_spanHeightDegree>
+	<_spanHeightStep>2.0</_spanHeightStep>
+	<_samplesPerSecond>10.0</_samplesPerSecond>
+	<_spanOffsetDegree>0.0</_spanOffsetDegree>
+	<_lazerRange>7000.0</_lazerRange>
+	<_groundTruthMode>GroundTruthMode::GROUND_TRUTH_MODE_NAME</_groundTruthMode>
+	<_absolutePath>C:\\AILiveSim\\</_absolutePath>
+	<_StreamTransformNotQuat>0</_StreamTransformNotQuat>
+	<_HitsInWorldOrLocalCoordinates>local</_HitsInWorldOrLocalCoordinates>
+	<_VerticalDirection>1</_VerticalDirection>
+	<_HorizontalDirection>1</_HorizontalDirection>
+	<_SweepDirection>vertical</_SweepDirection>
+	<_SweepShape>basic</_SweepShape>
+	<_AlternateDirection>true</_AlternateDirection>
+	<_OuterRadius>20.0</_OuterRadius>
+	<_InnerRadius>13.0</_InnerRadius>
+	<_GrapherOffset>0.54</_GrapherOffset>
+	<_WakeCollisionProbability>0.0</_WakeCollisionProbability>
+	<_CurrentNoiseType>Simple</_CurrentNoiseType>
+	<_NoiseIntensity>10.0</_NoiseIntensity>
+	<_ReflectivityNoiseIntensity>0.0</_ReflectivityNoiseIntensity>
+	<_IncludeZeroValues>true</_IncludeZeroValues>
+	<_FogNoOutputProbability>0.1</_FogNoOutputProbability>
+	<_FogRandomDistanceProbability>0.001</_FogRandomDistanceProbability>
+	<_RainRandomDistanceProbability>0.001</_RainRandomDistanceProbability>
+	<_WakeCollisionProbability> 0.04</_WakeCollisionProbability>
+	<_OceanCollisionProbability> 0.01</_OceanCollisionProbability>
+	<_WaveLength>0.0000550</_WaveLength>
+	<_MeshType>velodyn</_MeshType>
+	<_SupportFullyReflectiveSurfaces>true</_SupportFullyReflectiveSurfaces>
+</root>
