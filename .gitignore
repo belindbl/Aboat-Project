@@ -1,4 +1,5 @@
-!Python/
-!ConfigFiles/
-!Config/
-!SensorData/
+LocalTests/
+AILiveSim/
+License/
+AILiveSim.exe
+StartAILiveSim.py
