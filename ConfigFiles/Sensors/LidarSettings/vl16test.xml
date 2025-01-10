@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 	<_spanWidthDegree>360.0</_spanWidthDegree>
-	<_spanWidthStep>100.0</_spanWidthStep>
-	<_spanHeightDegree>30.0</_spanHeightDegree>
-	<_spanHeightStep>16.0</_spanHeightStep>
-	<_samplesPerSecond>1.0</_samplesPerSecond>
+	<_spanWidthStep>512.0</_spanWidthStep>
+	<_spanHeightDegree>40.0</_spanHeightDegree>
+	<_spanHeightStep>32.0</_spanHeightStep>
+	<_samplesPerSecond>5.0</_samplesPerSecond>
 	<_spanOffsetDegree>0.0</_spanOffsetDegree>
 	<_lazerRange>70000.0</_lazerRange>
 	<_StreamTransformNotQuat>0</_StreamTransformNotQuat>
@@ -16,6 +16,7 @@
 	<_IncludeZeroValues>false</_IncludeZeroValues>
 	<_FogNoOutputProbability>0.1</_FogNoOutputProbability>
 	<_FogRandomDistanceProbability>0.2</_FogRandomDistanceProbability>
+    <_OceanCollisionProbability>0.1</_OceanCollisionProbability>
 	<_WaveLength>0.0000550</_WaveLength>
 	<_MeshType>velodyn</_MeshType>
 </root> 
