@@ -38,7 +38,6 @@ class TestContext:
     client = ALSLib.ALSClient.Client((HOST, simulation_control_port), myMessageHandler)
 
 def SerializeToPCLFileContent(numPoints, posX, posY, posZ, quatW, quatX, quatY, quatZ, point_array):
-    posY = -posY # Flip Y-axis
     pclFileContent = '# .PCD v.7 - Point Cloud Data file format\nVERSION .7\nFIELDS x y z rgb\n'\
     'SIZE 4 4 4 4\nTYPE F F F U\nCOUNT 1 1 1 1\nWIDTH %d\nHEIGHT 1\nVIEWPOINT %f %f %f %f %f %f %f\n'\
     'POINTS %d\nDATA ascii\n' % (int(numPoints), posX, posY, posZ, quatW, quatX, quatY, quatZ, int(numPoints))
@@ -47,7 +46,7 @@ def SerializeToPCLFileContent(numPoints, posX, posY, posZ, quatW, quatX, quatY, 
         intensity = 1000
         if not math.isinf(p[3]) and p[3] != 0:
             intensity = int(p[3])
-        pclFileContent += '%.5f %.5f %.5f %d\n' % (p[0], p[1], p[2], intensity) 
+        pclFileContent += '%.5f %.5f %.5f %d\n' % (p[0], -p[1], p[2], intensity) # Flip Y axis
     return pclFileContent
 
 fig = plt.figure()
