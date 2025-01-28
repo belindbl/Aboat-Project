@@ -1,0 +1,254 @@
+{
+	"_LevelMap": [
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/AISExample.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2024.04.09-20.06.34"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/AllBoatLightTest.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.10.21-18.04.52"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/ARPA.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/ARPAGroup.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/BalticCorridorNavigation.ScenarioObjects.ini",
+			"_LevelName": "Baltic",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/BalticFerryFollow.ScenarioObjects.ini",
+			"_LevelName": "Baltic",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/BalticThermal.ScenarioObjects.ini",
+			"_LevelName": "Baltic",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/Default_Situation.ScenarioObjects.ini",
+			"_LevelName": "Turku",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/DemoDataCollectionAdvanced.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2024.05.24-08.47.12"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/DemoDatasetOverride.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2024.10.28-09.34.26"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/DemoDatasetOverride_Obstacles.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2024.05.24-08.47.12"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/DemoDatasetOverride_Target.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2024.12.12-12.58.46"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/DemoMultiple Boats.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/DemoPythonController.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.10.25-06.50.12"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/DemoRadarVisualization.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/DemoSensors.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2024.10.17-08.46.50"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/DownRiverside.ScenarioObjects.ini",
+			"_LevelName": "Turku",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/Example_Animations.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/LidarGTtest.ScenarioObjects.ini",
+			"_LevelName": "Turku",
+			"_ModifyTime": "2023.04.24-11.36.40"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/marketing_v2.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/Marketing_V3.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/Marketing_V5.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/OpenOceanRandomBoatsAtHarbour.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/OpenOceanRandomPassingBy.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/OpenOceanSmallMotorBoat.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2024.11.06-11.03.34"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/OpenOceanTestAllBoats.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/OpenOceanTestTriggers.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/SensorGroupTest.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/StrafeExample.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/TestBoundingBox.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2024.10.18-12.12.12"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/TestBoundingBox3D.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2024.10.15-18.58.30"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/testdrone.ScenarioObjects.ini",
+			"_LevelName": "ShipToShore",
+			"_ModifyTime": "2024.06.26-12.49.22"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/TestObjectAPICommands.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/VelocityControlModeALSBoat.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-09.21.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/SplineSpeedChangeExample.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2023.01.09-11.12.36"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/DemoABoat.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2025.01.14-11.47.32"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/Workshop_BoatControl.ScenarioObjects.ini",
+			"_LevelName": "Turku",
+			"_ModifyTime": "2023.01.09-11.12.38"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/WorkShop_BoatControl_waypoints.ScenarioObjects.ini",
+			"_LevelName": "Turku",
+			"_ModifyTime": "2023.01.09-11.12.38"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/CameraCalibrationSituation.ScenarioObjects.ini",
+			"_LevelName": "Turku",
+			"_ModifyTime": "2023.02.03-07.18.44"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/CameraCalibrationSituation2.ScenarioObjects.ini",
+			"_LevelName": "Turku",
+			"_ModifyTime": "2023.02.03-07.18.44"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/CameraCalibrationSituation_CollectGT.ScenarioObjects.ini",
+			"_LevelName": "Turku",
+			"_ModifyTime": "2023.02.03-07.18.44"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/CameraCalibrationSituation_Dataset.ScenarioObjects.ini",
+			"_LevelName": "Turku",
+			"_ModifyTime": "2023.02.03-07.18.44"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/CameraCalibrationSituation_Manual.ScenarioObjects.ini",
+			"_LevelName": "Turku",
+			"_ModifyTime": "2023.02.03-07.18.44"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/CameraCalibrationSituation_PointTracking.ScenarioObjects.ini",
+			"_LevelName": "Turku",
+			"_ModifyTime": "2023.02.03-07.18.44"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/CameraCalibrationSituation_StereoCam.ScenarioObjects.ini",
+			"_LevelName": "Turku",
+			"_ModifyTime": "2023.02.03-07.18.44"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/RandDemoPitch.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2024.12.10-12.17.56"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/DemoSensorsTest.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2025.01.23-09.07.20"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/deletethis.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2025.01.23-08.50.14"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/DemoSensorsTestAboat.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2025.01.23-09.07.38"
+		},
+		{
+			"_FilePath": "../../../ConfigFiles/Situations/Aboat.ScenarioObjects.ini",
+			"_LevelName": "OpenOcean",
+			"_ModifyTime": "2025.01.28-11.51.22"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+open the pcd file in SensorData
+overwrites previous data whenever the LiveSocketLidarTest.py is ran
+
+python E:\AILiveSim_1_9_7\Python\visualize_pcd.py E:\AILiveSim_1_9_7\SensorData\pcl\pcl0.pcd

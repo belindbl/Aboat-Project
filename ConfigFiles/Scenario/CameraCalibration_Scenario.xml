@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenario>
+	<Level>Turku</Level>
+	<Situation>
+		<Layer>CameraCalibrationSituation_Dataset</Layer>
+	</Situation>
+</Scenario>

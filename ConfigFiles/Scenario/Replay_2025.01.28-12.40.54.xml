@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenario>
+	<Level>OpenOcean</Level>
+	<Scenes>
+		<SubScene>Instructions</SubScene>
+		<SubScene>Layout2</SubScene>
+	</Scenes>
+	<RandomSeed>1</RandomSeed>
+	<SeaState>Default</SeaState>
+	<Weather>AfternoonClear</Weather>
+	<Situation>
+		<Layer>Aboat</Layer>
+	</Situation>
+	<Replay>Replay_2025.01.28-12.40.54.txt</Replay>
+</Scenario>

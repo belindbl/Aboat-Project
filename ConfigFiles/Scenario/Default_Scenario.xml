@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenario>
+	<Level>OpenOcean</Level>
+	<SeaState>DefaultBlueSea</SeaState>
+	<RandomSeed>1</RandomSeed>
+	<Weather>AfternoonClear</Weather>
+	<Scenes>
+		<SubScene>Layout2</SubScene>
+	</Scenes>
+</Scenario>

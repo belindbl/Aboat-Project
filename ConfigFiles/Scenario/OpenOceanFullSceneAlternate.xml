@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenario>
+	<Level>OpenOcean</Level>
+	<Scenes>
+		<SubScene>Coast_SmallHouses</SubScene>
+		<SubScene>Containers</SubScene>
+		<SubScene>Harbour</SubScene>
+		<SubScene>Landscape</SubScene>
+	</Scenes>
+	<SeaState>
+		<Choose>
+			<Choice>CalmBlueSea</Choice>
+			<Choice>DefaultBlueSea</Choice>
+			<Choice>RandomSea5</Choice>
+			<Choice>RandomSea6</Choice>
+		</Choose>
+	</SeaState>
+	<Situation>
+		<Layer>OpenOceanRandomPassingBy</Layer>
+	</Situation>
+	<Weather>
+		<Choose>
+			<Choice>AfternoonCloudy</Choice>
+			<Choice>MorningClear</Choice>
+			<Choice>NightClear</Choice>
+			<Choice>RandomTest</Choice>
+		</Choose>
+	</Weather>
+</Scenario>

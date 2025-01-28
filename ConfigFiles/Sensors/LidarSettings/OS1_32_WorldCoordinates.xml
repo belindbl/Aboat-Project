@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_spanWidthDegree>360.0</_spanWidthDegree>
+	<_spanWidthStep>1024.0</_spanWidthStep>
+	<_spanHeightDegree>40.0</_spanHeightDegree>
+	<_spanHeightStep>32.0</_spanHeightStep>
+	<_samplesPerSecond>10.0</_samplesPerSecond>
+	<_spanOffsetDegree>0.0</_spanOffsetDegree>
+	<_OutputType>Raw</_OutputType>
+	<_lazerRange>12000.0</_lazerRange>
+	<_StreamTransformNotQuat>0</_StreamTransformNotQuat>
+	<_HitsInWorldOrLocalCoordinates>world</_HitsInWorldOrLocalCoordinates>
+	<_SweepShape>basicfast</_SweepShape>
+	<_CurrentNoiseType>Simple</_CurrentNoiseType>
+	<_NoiseIntensity>10.0</_NoiseIntensity>
+	<_ReflectivityNoiseIntensity>0.0</_ReflectivityNoiseIntensity>
+	<_IncludeZeroValues>true</_IncludeZeroValues>
+	<_FogNoOutputProbability>0.1</_FogNoOutputProbability>
+	<_FogRandomDistanceProbability>0.001</_FogRandomDistanceProbability>
+	<_RainRandomDistanceProbability>0.001</_RainRandomDistanceProbability>
+	<_WakeCollisionProbability>0.004</_WakeCollisionProbability>
+	<_OceanCollisionProbability>0.001</_OceanCollisionProbability>
+	<_WaveLength>0.0000550</_WaveLength>
+	<_MeshType>velodyn</_MeshType>
+</root>

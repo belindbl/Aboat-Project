@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_RaysPerSecond>1000</_RaysPerSecond>
+	<_SamplesPerSecond>30.0</_SamplesPerSecond>
+	<_HorizontalFOV>90.0</_HorizontalFOV>
+	<_VerticalFOV>10.0</_VerticalFOV>
+	<_Range>6000.0</_Range>
+	<_Wavelength>1000.0</_Wavelength>
+	<_DataAsJSON>True</_DataAsJSON>
+	<_RotationsPerMinute>20.0</_RotationsPerMinute>
+	<_Gain>1.0</_Gain>
+</root> 

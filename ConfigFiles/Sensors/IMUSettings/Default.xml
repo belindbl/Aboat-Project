@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_SamplesPerSecond>144.0</_SamplesPerSecond>
+	<_Handedness>right</_Handedness>
+	<_ApplyNoise>1</_ApplyNoise>
+	<AnguleRandomWalk>0.30</AnguleRandomWalk>
+	<VelocityRandomWalk>0.24</VelocityRandomWalk>
+	<GyroscopeBiasStability>4.6</GyroscopeBiasStability>
+	<AccelerometerBiasStability>36.0</AccelerometerBiasStability>
+	<_NoiseIntensity>100.0</_NoiseIntensity>
+	<_WorldAlignedOutput>False</_WorldAlignedOutput>
+	<_DataAsJSON>true</_DataAsJSON>
+</root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenario>
+	<Level>Baltic</Level>
+	<Scenes />
+	<Situation>
+		<Layer>BalticCorridorNavigation</Layer>
+	</Situation>
+</Scenario>

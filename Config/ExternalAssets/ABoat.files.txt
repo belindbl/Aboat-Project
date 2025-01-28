@@ -1,0 +1,8 @@
+..\..\ConfigFiles\EgoVehicleSettings\ABoat.AdvancedSettings.ini
+..\..\ConfigFiles\EgoVehicleSettings\ABoat.Definition.ini
+..\..\ConfigFiles\EgoVehicleSettings\ABoatCustomMotors.AdvancedSettings.ini
+..\..\ConfigFiles\Situations\DemoABoat.ScenarioObjects.ini
+..\..\Python\DemoScripts\DemoRemoteControlCustomMotors.py
+ABoat.json
+uninstallABoat.py
+ABoat.files.txt

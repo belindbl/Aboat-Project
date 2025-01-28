@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_SamplesPerSecond>20.0</_SamplesPerSecond>
+	<_UseSignedVelocity>true</_UseSignedVelocity>
+	<_OutputVectorNotFloat>true</_OutputVectorNotFloat>
+	<_WorldAlignedOutput>false</_WorldAlignedOutput>
+</root>

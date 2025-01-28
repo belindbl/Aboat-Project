@@ -1,0 +1,27 @@
+{
+  "_Assets": [
+    {
+      "_AssetName": "BP_ALSLoader",
+      "_AssetAlias": "ALS_Loader",
+      "_AssetType": "Vehicle"
+    },
+    {
+      "_AssetName": "BP_ALSTruckHauling",
+      "_AssetAlias": "ALS_Hauler",
+      "_AssetType": "Vehicle"
+    },
+    {
+      "_AssetName": "BP_ALSBoat",
+      "_AssetAlias": "ALS_Boat",
+      "_AssetType": "Vehicle"
+    },
+    {
+      "_AssetName": "AILiveSimCar",
+      "_AssetAlias": "ALS_Car",
+      "_AssetType": "Vehicle"
+    }
+
+  ],
+  "_PakFileName": "ALSExtraVehicles",
+  "_BuildVersion": "1.9.7"
+}

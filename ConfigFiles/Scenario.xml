@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenario>
+	<Level>OpenOcean</Level>
+	<Scenes>
+		<SubScene>Instructions</SubScene>
+		<SubScene>Layout1</SubScene>
+	</Scenes>
+	<RandomSeed>10237</RandomSeed>
+</Scenario>

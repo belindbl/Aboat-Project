@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_WorldOrgLatitude>24.902382</_WorldOrgLatitude>
+	<_WorldOrgLongitude>-77.259064</_WorldOrgLongitude>
+	<_SamplesPerSecond>10.0</_SamplesPerSecond>
+	<_SavingDelay>30.0</_SavingDelay>
+	<_ShouldOverrideWeatherReference>true</_ShouldOverrideWeatherReference>
+	<_GaussianNoiseIntensity>40.0</_GaussianNoiseIntensity>
+	<_GaussianNoiseMu>0.0</_GaussianNoiseMu>
+	<_GaussianNoiseSigma>0.5</_GaussianNoiseSigma>
+	<_FreezeProbability>0.1</_FreezeProbability>
+	<_FreezeMaxDurationSeconds>1.3</_FreezeMaxDurationSeconds>
+	<_VelocityCompensationInterval>3.0</_VelocityCompensationInterval>
+</root>

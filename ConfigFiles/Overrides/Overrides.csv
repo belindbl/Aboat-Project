@@ -1,0 +1,9 @@
+Weather/*.Weather.ini;TimeOfDaySettings.Hours;8
+SeaStates/DefaultBlueSea.SeaState.ini;*.Metalic;0.95
+Situations/OpenOceanSmallMotorBoat.ScenarioObjects.ini;EgoSituationPlacer_C_3.VehicleDefinitionFileName;./ConfigFiles/EgoVehicleSettings/FishingBoat.Definition.ini
+Situations/OpenOceanSmallMotorBoat.ScenarioObjects.ini;EGOBOAT.Position.Translation.Z;200
+Situations/OpenOceanSmallMotorBoat.ScenarioObjects.ini;BUOY.BuoyType;RedCone
+Situations/OpenOceanSmallMotorBoat.ScenarioObjects.ini;BUOY_Color.PrimaryColor.R;1.0
+Situations/OpenOceanSmallMotorBoat.ScenarioObjects.ini;BUOY_Color.PrimaryColor.G;0.0
+Situations/OpenOceanSmallMotorBoat.ScenarioObjects.ini;BUOY.RandomRanges.Rotation.X;30
+Situations/OpenOceanSmallMotorBoat.ScenarioObjects.ini;BP_BuoyPlacer_C_0.Position.Translation.Z;200

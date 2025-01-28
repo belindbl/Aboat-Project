@@ -1,0 +1,11 @@
+{
+  "_Assets": [
+    {
+      "_AssetName": "BP_ABoat",
+      "_AssetAlias": "ABoat",
+      "_AssetType": "Vehicle"
+    }
+  ],
+  "_PakFileName": "ABoat",
+  "_BuildVersion": "1.9.7"
+}

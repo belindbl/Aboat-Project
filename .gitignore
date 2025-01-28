@@ -1,0 +1,15 @@
+AILiveSim/
+.venv/
+License/
+Logs/
+AILiveSim.exe
+Engine/
+AILiveSim/Binaries/Win64/AILiveSim-Win64-Shipping.exe
+StartServerAndClients.bat
+StartAILiveSim.py
+LaunchWindowed.bat
+InstallPlugin.py
+SensorData/
+SensorData - Copytmp/
+SavedLogs/
+configworkspace.code-workspace

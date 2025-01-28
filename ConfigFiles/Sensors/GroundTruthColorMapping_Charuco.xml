@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RuleSet name="default">
+<Rule category="Drivables" type="ObjectName" filter="*Landscape*" colorID="77"/>
+
+	<Rule category="Vegetation" type="FirstMaterial" filter="*Tree*" colorID="155"/>
+
+	<Rule category="Sky" type="ObjectName" filter="*Sky*" colorID="152"/>
+
+	<Rule category="Obstacles" type="ObjectName" filter="*rock*" colorID="206"/>
+	<Rule category="Obstacles" type="ObjectName" filter="*cube*" colorID="206"/>
+	<Rule category="Obstacles" type="ObjectName" filter="*person*" colorID="206"/>
+	<Rule category="Obstacles" type="ObjectName" filter="*fence*" colorID="206"/>
+	<Rule category="Obstacles" type="ObjectName" filter="*Airport*" colorID="206"/>
+	<Rule category="Obstacles" type="ObjectName" filter="*Pillar*" colorID="206"/>
+	
+	<Rule category="Static" type="ObjectName" filter="*Wall*" colorID="207"/>
+	<Rule category="Static" type="ObjectName" filter="*Buildi*" colorID="207"/>
+	<Rule category="Static" type="ObjectName" filter="*house*" colorID="207"/>
+	<Rule category="Static" type="ObjectName" filter="*Office*" colorID="207"/>
+	<Rule category="Static" type="ObjectName" filter="*Booth*" colorID="207"/>
+	<Rule category="Static" type="ObjectName" filter="*Tunnel*" colorID="207"/>
+
+	<Rule category="Pedestrians" type="ObjectName" filter="*Pedestrian*" colorID="39"/>
+
+	<Rule category="VEHICLE" type="ObjectName" filter="*TH540*" colorID="125"/>
+	<Rule category="VEHICLE" type="ObjectName" filter="*LH30*" colorID="125"/>
+	<Rule category="VEHICLE" type="ObjectName" filter="*LH410*" colorID="125"/>
+	<Rule category="VEHICLE" type="ObjectName" filter="*_suv_*" colorID="125"/>
+
+	<Rule category="Charuco" type="FirstMaterial" filter="*SingleBlack*" colorID="101"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single00*" colorID="1"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single01*" colorID="2"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single02*" colorID="3"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single03*" colorID="4"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single04*" colorID="5"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single05*" colorID="6"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single10*" colorID="7"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single11*" colorID="8"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single12*" colorID="9"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single13*" colorID="10"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single14*" colorID="11"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single15*" colorID="12"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single20*" colorID="13"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single21*" colorID="14"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single22*" colorID="15"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single23*" colorID="16"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single24*" colorID="17"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single25*" colorID="18"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single30*" colorID="19"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single31*" colorID="20"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single32*" colorID="21"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single33*" colorID="22"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single34*" colorID="23"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single35*" colorID="24"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single40*" colorID="25"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single41*" colorID="26"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single42*" colorID="27"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single43*" colorID="28"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single44*" colorID="29"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single45*" colorID="30"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single50*" colorID="31"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single51*" colorID="32"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single52*" colorID="33"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single53*" colorID="34"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single54*" colorID="35"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single55*" colorID="36"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single60*" colorID="37"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single61*" colorID="38"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single62*" colorID="39"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single63*" colorID="40"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single64*" colorID="41"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single65*" colorID="42"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single70*" colorID="43"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single71*" colorID="44"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single72*" colorID="45"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single73*" colorID="46"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single74*" colorID="47"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single75*" colorID="48"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single80*" colorID="49"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single81*" colorID="50"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single82*" colorID="51"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single83*" colorID="52"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single84*" colorID="53"/>
+	<Rule category="Charuco" type="FirstMaterial" filter="*Single85*" colorID="54"/>
+	<Rule category="CharucoB" type="ObjectName" filter="*PossessableCheckerboard*" colorID="100"/>
+
+	
+	<!-- Default color -->
+	<Rule category="default" type="ObjectName" filter="*" colorID="0"/>
+</RuleSet>

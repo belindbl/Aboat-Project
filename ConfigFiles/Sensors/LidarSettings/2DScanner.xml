@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<_spanWidthDegree>190.0</_spanWidthDegree>
+	<_spanWidthStep>191.0</_spanWidthStep>
+	<_spanHeightDegree>0.0</_spanHeightDegree>
+	<_spanHeightStep>1.0</_spanHeightStep>
+	<_samplesPerSecond>25.0</_samplesPerSecond>
+	<_spanOffsetDegree>0.0</_spanOffsetDegree>
+	<_lazerRange>7000.0</_lazerRange>
+	<_StreamTransformNotQuat>0</_StreamTransformNotQuat>
+	<_HitsInWorldOrLocalCoordinates>Local</_HitsInWorldOrLocalCoordinates>
+	<_OutputType>Raw</_OutputType>
+	<_SweepShape>basic</_SweepShape>
+	<_FogNoOutputProbability>0.1</_FogNoOutputProbability>
+	<_FogRandomDistanceProbability>0.001</_FogRandomDistanceProbability>
+	<_RainRandomDistanceProbability>0.001</_RainRandomDistanceProbability>
+	<_WakeCollisionProbability> 0.04</_WakeCollisionProbability>
+	<_OceanCollisionProbability> 0.01</_OceanCollisionProbability>
+</root>

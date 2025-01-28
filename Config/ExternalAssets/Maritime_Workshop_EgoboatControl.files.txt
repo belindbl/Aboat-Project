@@ -1,0 +1,8 @@
+..\..\ConfigFiles\EgoVehicleSettings\Workshop_BoatControl.SensorProfile.ini
+..\..\ConfigFiles\Scenario\Workshop_BoatControl.xml
+..\..\ConfigFiles\Sensors\FilteredObjectGetter\Workshop_BoatControl.xml
+..\..\ConfigFiles\Situations\WorkShop_BoatControl_waypoints.ScenarioObjects.ini
+..\..\ConfigFiles\Situations\Workshop_BoatControl.ScenarioObjects.ini
+..\..\Python\Workshop_RemoteControl.py
+uninstallMaritime_Workshop_EgoboatControl.py
+Maritime_Workshop_EgoboatControl.files.txt

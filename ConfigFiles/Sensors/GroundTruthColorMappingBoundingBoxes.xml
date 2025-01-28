@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RuleSet name="default">
+	<!-- object names cars same color -->
+	<Rule category="BoatsInstance" type="ObjectAlias" filter="*boat*" colorRange="0:75"/>
+	<Rule category="default" type="ObjectName" filter="*" colorID="0"/>
+
+
+</RuleSet>
+

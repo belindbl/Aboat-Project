@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CameraSettings>
+
+    <MotionBlurAmount>1.0</MotionBlurAmount>
+    <MotionBlurMax>10.0</MotionBlurMax>
+    <MotionBlurPerObjectSize>0.5</MotionBlurPerObjectSize>
+ <!--
+    <TargetGamma></TargetGamma>
+    <FilmSlope></FilmSlope>
+    <FilmToe></FilmToe>
+    <BloomIntensity></BloomIntensity>
+    <BloomThreshold></BloomThreshold>
+
+    <VignetteIntensity></VignetteIntensity>
+    <ChromaticAberration></ChromaticAberration>
+
+
+    <DepthOfFieldFocalDistance></DepthOfFieldFocalDistance>
+    <DepthOfFieldNearTransitionRegion></DepthOfFieldNearTransitionRegion>
+    <DepthOfFieldFarTransitionRegion></DepthOfFieldFarTransitionRegion>
+    <DepthOfFieldScale></DepthOfFieldScale>
+    <DepthOfFieldNearBlurSize></DepthOfFieldNearBlurSize>
+    <DepthOfFieldFarBlurSize></DepthOfFieldFarBlurSize>
+
+
+    <AutoExposureMinBrightness></AutoExposureMinBrightness>
+    <AutoExposureMaxBrightness></AutoExposureMaxBrightness>
+    <AutoExposureSpeedUp></AutoExposureSpeedUp>
+    <AutoExposureSpeedDown></AutoExposureSpeedDown>
+	<AmbientOcclusionPower></AmbientOcclusionPower>
+    <AmbientOcclusionRadius></AmbientOcclusionRadius>
+    <AmbientOcclusionIntensity></AmbientOcclusionIntensity>
+
+    <LPVSpecularOcclusionIntensity></LPVSpecularOcclusionIntensity>
+    <LPVIntensity></LPVIntensity>
+    <LPVSize></LPVSize>
+    <LPVSecondaryOcclusionIntensity></LPVSecondaryOcclusionIntensity>
+    <LPVSecondaryBounceIntensity></LPVSecondaryBounceIntensity>
+    <LPVDiffuseOcclusionExponent></LPVDiffuseOcclusionExponent>
+    <LPVSpecularOcclusionExponent></LPVSpecularOcclusionExponent>
+    <LPVVplInjectionBias></LPVVplInjectionBias>
+    <AmbientOcclusionFadeDistance></AmbientOcclusionFadeDistance>
+    <AmbientOcclusionFadeRadius></AmbientOcclusionFadeRadius>
+    <AmbientOcclusionBias></AmbientOcclusionBias>
+    <AmbientOcclusionQuality></AmbientOcclusionQuality>
+    <AmbientOcclusionMipBlend></AmbientOcclusionMipBlend>
+    <AmbientOcclusionMipScale></AmbientOcclusionMipScale>
+    <AmbientOcclusionMipThreshold></AmbientOcclusionMipThreshold>
+
+    <AutoExposureBias></AutoExposureBias>
+    <HistogramLogMin></HistogramLogMin>
+    <HistogramLogMax></HistogramLogMax>
+    <LensFlareIntensity></LensFlareIntensity>
+    <LensFlareBokehSize></LensFlareBokehSize>
+    <LensFlareThreshold></LensFlareThreshold>
+    <FilmContrast></FilmContrast>
+    <FilmToeAmount></FilmToeAmount>
+    <FilmHealAmount></FilmHealAmount>
+    <FilmDynamicRange></FilmDynamicRange>
+    <SceneFringeIntensity></SceneFringeIntensity>
+    <GrainIntensity></GrainIntensity>
+    <AmbientOcclusionStaticFraction></AmbientOcclusionStaticFraction>
+    <AutoExposureLowPercent></AutoExposureLowPercent>
+    <AutoExposureHighPercent></AutoExposureHighPercent>
+
+    <IndirectLightingIntensity></IndirectLightingIntensity>
+    <ColorGradingIntensity></ColorGradingIntensity>
+
+    <DepthOfFieldFstop></DepthOfFieldFstop>
+    <DepthOfFieldSensorWidth></DepthOfFieldSensorWidth>
+
+
+    <DepthOfFieldDepthBlurAmount></DepthOfFieldDepthBlurAmount>
+    <DepthOfFieldDepthBlurRadius></DepthOfFieldDepthBlurRadius>
+    <DepthOfFieldFocalRegion></DepthOfFieldFocalRegion>
+    <DepthOfFieldMaxBokehSize></DepthOfFieldMaxBokehSize>
+
+    <DepthOfFieldOcclusion></DepthOfFieldOcclusion>
+    <DepthOfFieldColorThreshold></DepthOfFieldColorThreshold>
+    <DepthOfFieldSizeThreshold></DepthOfFieldSizeThreshold>
+    <DepthOfFieldSkyFocusDistance></DepthOfFieldSkyFocusDistance>
+    <DepthOfFieldVignetteSize></DepthOfFieldVignetteSize>
+
+    <LPVGeometryVolumeBias></LPVGeometryVolumeBias>
+    <LPVEmissiveInjectionIntensity></LPVEmissiveInjectionIntensity>
+    <LPVDirectionalOcclusionIntensity></LPVDirectionalOcclusionIntensity>
+    <LPVDirectionalOcclusionRadius></LPVDirectionalOcclusionRadius>
+
+    <LPVDiffuseOcclusionIntensity></LPVDiffuseOcclusionIntensity>
+    <ScreenSpaceReflectionIntensity></ScreenSpaceReflectionIntensity>
+    <ScreenSpaceReflectionQuality></ScreenSpaceReflectionQuality>
+    <ScreenSpaceReflectionMaxRoughness></ScreenSpaceReflectionMaxRoughness>
+    <LPVFadeRange></LPVFadeRange>
+    <LPVDirectionalOcclusionFadeRange></LPVDirectionalOcclusionFadeRange>
+!-->  
+</CameraSettings>

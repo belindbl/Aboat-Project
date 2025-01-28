@@ -1,0 +1,4 @@
+CameraCalibration_Scenario
+Situations/CameraCalibrationSituation_Dataset.ScenarioObjects.ini;Anim.EndAction value Reverse
+Situations/CameraCalibrationSituation_Dataset.ScenarioObjects.ini;Anim.OffsetRotation.Y value 0.0;20.0;-20.0
+Situations/CameraCalibrationSituation_Dataset.ScenarioObjects.ini;Anim.OffsetRotation.Z value 180.0;200.0;160.0
