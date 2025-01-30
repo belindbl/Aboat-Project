@@ -1,9 +1,9 @@
-# Åboat Object Tracking and Collision Avoidance
+# Project GIMLI
 
-The **Åboat** project, undertaken as part of the 2024-2025 project course for first-year ÅA graduate students. This project focuses on developing navigation and collision avoidance systems for a semi-autonomous vessel designed to operate in maritime environments, semi-autonomously.
+GIMLI (Guided Integrated Maritime Logistics and Intelligence), undertaken as part of the 2024-2025 project course for first-year ÅA graduate students. This project focuses on developing navigation and collision avoidance systems for a semi-autonomous vessel designed to operate in maritime environments, semi-autonomously. 
 
 ## Objectives
-- To design and implement a reliable collision avoidance system utilising sensor fusion, including **LIDAR** and multiple cameras for a 360-degree spatial awareness.
+- To design and implement a reliable collision avoidance system utilising sensor fusion, including **LIDAR** and multiple cameras for a 360-degree spatial awareness for the Åboat.
 - To synchronise real-time image and LIDAR data for accurate detection and classification of obstacles, such as other vessels, rocks, and shoreline features.
 - To ensure seamless integration with waypoint-following capabilities, for navigation.
 - To develop and refine algorithms that enable the Åboat to make autonomous decisions for safe and efficient navigation in dynamic environments (under supervision).
@@ -20,3 +20,6 @@ The **Åboat** project, undertaken as part of the 2024-2025 project course for f
 3. **Simulator Integration**:
    - Testing and refining the system in a virtual maritime environment using the **AILiveSim** simulator integrated with Unreal Engine 4.
    - Simulating real-world scenarios to validate system performance before physical deployment and evaluation.
+  
+## Future Development
+1. Hardware agnostic implementation in ROS which would enable the software to be integrated into different systems more easily.
