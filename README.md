@@ -1,6 +1,6 @@
 # Project GIMLI
 
-GIMLI (Guided Integrated Maritime Logistics and Intelligence), undertaken as part of the 2024-2025 project course for first-year ÅA graduate students. This project focuses on developing navigation and collision avoidance systems for a semi-autonomous vessel designed to operate in maritime environments.
+GIMLI (Guided Integrated Maritime Logistics and Intelligence), undertaken as part of a project course for first-year graduate students. This project focuses on developing navigation and collision avoidance systems for a semi-autonomous vessel designed to operate in maritime environments.
 
 ## Objectives
 - To design and implement a reliable collision avoidance system utilising sensor fusion, including **LIDAR** and multiple cameras for a 360-degree spatial awareness for the Åboat.
