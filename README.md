@@ -23,3 +23,12 @@ GIMLI (Guided Integrated Maritime Logistics and Intelligence), undertaken as par
   
 ## Future Development
 1. Hardware agnostic implementation in ROS which would enable the software to be integrated into different systems more easily.
+
+# Setup and running the program
+1. Get a valid license by contacting [AILiveSim](https://www.ailivesim.com/).
+2. Compatible with ALS v1.9.7 (and possibly others, assuming the codebase is compatible with the ALSLib module).
+3. Install the simulator by following the instructions in the [AILiveSim documentation](https://portal.ailivesim.com/documentation)
+4. Install the required dependencies in a virtual environment by running ```pip install -r requirements.txt``` in an active virtual environment.
+5. ...
+6. Start the AILiveSim executable
+7. ...
